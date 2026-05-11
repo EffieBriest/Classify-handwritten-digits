@@ -858,7 +858,7 @@ This project demonstrates how convolutional neural networks can be used for hand
 Compared to a simple fully connected network, a CNN is better suited for image data because it preserves spatial structure and learns local patterns such as edges, curves, and digit parts.
 
 Although the model performs well on MNIST, it is mainly suitable for MNIST-like handwritten digits. For real-world digit recognition, the dataset and preprocessing pipeline would need to be extended.
---
+
 ## References
 * GeeksforGeeks [link](https://www.geeksforgeeks.org/machine-learning/introduction-convolution-neural-network/)
 * Kingma, D. P., & Ba, J. (2015). *Adam: A Method for Stochastic Optimization*. International Conference on Learning Representations (ICLR). [link](https://arxiv.org/abs/1412.6980)
